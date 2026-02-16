@@ -3,7 +3,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/adithya-hettiarachchi-a40147352/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@adithya.ha66" target="_blank">
@@ -11,6 +11,7 @@
 </a>
 
 </p>
+
 
 ---
 
@@ -29,9 +30,7 @@ Actively seeking a Cybersecurity Internship to contribute to real-world security
 ---
 
 ## 🎯 Objective
-
-Aspiring SOC Analyst / Security Analyst passionate about detecting threats and defending systems.
-
+- Aspiring Penetration Tester / SOC Analyst who is passionate about finding security weaknesses, detecting cyber threats, and protecting systems from attacks.
 ---
 
 ## 🛠 Skills & Projects
@@ -57,7 +56,7 @@ Vulnerability Assessment • Threat Analysis • Risk Assessment • Ethical Hac
 ![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-lightgrey?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
 
 ### 🌐 Networking
 TCP/IP • DHCP • DNS (BIND9) • NTP • IPTables
@@ -101,6 +100,13 @@ TCP/IP • DHCP • DNS (BIND9) • NTP • IPTables
 - **Crash Course on Python** – Google (Jan 2026)  
 - **Networking Basics** – Cisco (Nov 2025)  
 - **Introduction to Cybersecurity** – Cisco (Jul 2025)  
+
+<p align="center">
+  <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/07/21134750/isc2-2023-200.jpg" width="60" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.s2ys9AkzduhVzOi8NrOL7wHaHa?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3" width="60" />
+  <img src="https://toppng.com/uploads/preview/ibm-logo-vector-black-download-115739659102sswvuvhya.jpg" width="60" />
+  <img src="https://www.graduatesfirst.com/wp-content/uploads/2022/12/Google__G__Logo.svg-4582305.png" width="60" />
+</p>
 
 ---
 
