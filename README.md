@@ -1,13 +1,22 @@
 # Hello, I'm Adithya Hettiarachchi 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Hettiarachchi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithya-hettiarachchi-a40147352)
-[![GitHub](https://img.shields.io/badge/GitHub-adithyaHE22-black?style=for-the-badge&logo=github)](https://github.com/adithyaHE22)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/adithya-hettiarachchi-a40147352/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@adithya.ha66" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Third-year Cybersecurity undergraduate at **SLIIT** with hands-on experience in:
+Third-year Cybersecurity undergraduate at SLIIT with hands-on experience in:
 
 - Network Security  
 - Vulnerability Assessment  
@@ -15,37 +24,32 @@ Third-year Cybersecurity undergraduate at **SLIIT** with hands-on experience in:
 - Threat Analysis  
 - Web Application Security  
 
-I am actively seeking a **Cybersecurity Internship** to apply my technical knowledge and contribute to real-world security operations.
+Actively seeking a Cybersecurity Internship to contribute to real-world security operations.
 
 ---
 
 ## 🎯 Objective
 
-Aspiring **SOC Analyst / Security Analyst** passionate about defending systems, detecting threats, and responding to incidents.  
-Focused on building strong blue-team and offensive security fundamentals.
+Aspiring SOC Analyst / Security Analyst passionate about detecting threats and defending systems.
 
 ---
 
-## 🛠 Skills & Associated Projects
+## 🛠 Skills & Projects
 
-| Skill | Associated Project |
-|-------|-------------------|
+| Skill | Project |
+|-------|---------|
 | Web Application Security Testing | [Grandview Hotel CTF](https://github.com/adithyaHE22/Grandview-Hotel-Web-Security-CTF.git) |
 | Bug Bounty & Vulnerability Assessment | [Bug Bounty Report](https://github.com/adithyaHE22/Bug-Bounty-Report.git) |
-| Linux System & Network Administration | [Linux Systems Project](https://github.com/adithyaHE22/linux-systems-and-network-programming-2025.git) |
-| Python Security Tool Development | [Lock&Key Encryption Tool](https://github.com/adithyaHE22/Text-Encryption-and-Decryption-Tool.git) |
-| Network Traffic Analysis | [NetWatch Packet Sniffer](https://github.com/adithyaHE22/NetWatch-Packet-Sniffer.git) |
+| Linux & Network Administration | [Linux Systems Project](https://github.com/adithyaHE22/linux-systems-and-network-programming-2025.git) |
+| Python Security Tool | [Lock&Key Encryption Tool](https://github.com/adithyaHE22/Text-Encryption-and-Decryption-Tool.git) |
+| Network Packet Analysis | [NetWatch Sniffer](https://github.com/adithyaHE22/NetWatch-Packet-Sniffer.git) |
 
 ---
 
 ## 🔧 Technical Skills
 
 ### 🔐 Cybersecurity
-- Vulnerability Assessment
-- Threat Analysis
-- Ethical Hacking Basics
-- Risk Assessment
-- Social Engineering
+Vulnerability Assessment • Threat Analysis • Risk Assessment • Ethical Hacking Basics
 
 ### 🧰 Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
@@ -56,30 +60,32 @@ Focused on building strong blue-team and offensive security fundamentals.
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ### 🌐 Networking
-- TCP/IP
-- DHCP
-- DNS (BIND9)
-- NTP
-- Firewalls
-- IPTables
+TCP/IP • DHCP • DNS (BIND9) • NTP • IPTables
 
-### 💻 Operating Systems
-- Linux (Ubuntu, Kali)
-- Windows
+## 💻 Programming Languages
 
-### 👨‍💻 Programming
-- Python
-- C
-- C++
-- Java
-- Shell Scripting
+<p align="left">
 
-### 🌍 Web Technologies
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</p>
+
 
 ---
 
@@ -98,65 +104,11 @@ Focused on building strong blue-team and offensive security fundamentals.
 
 ---
 
-## 🚀 Featured Projects
+## 📫 Contact
 
-### 🔍 1. Bug Bounty & Web Application Security Assessment
-Identified vulnerabilities such as XSS, CSRF, Clickjacking.  
-Performed reconnaissance, manual testing, and PoC development using Burp Suite, OWASP ZAP, Nmap, Amass.
-
-🔗 Repository:  
-https://github.com/adithyaHE22/Bug-Bounty-Report.git  
+Email: adithya.ha66@gmail.com  
+Location: Kandy, Sri Lanka  
 
 ---
 
-### 🏨 2. Grandview Hotel – Web Security CTF
-Exploited SQL Injection, Stored XSS, IDOR, and Authentication Bypass in a simulated hotel booking system.
-
-🔗 Repository:  
-https://github.com/adithyaHE22/Grandview-Hotel-Web-Security-CTF.git  
-
----
-
-### 🐧 3. Linux System & Network Administration
-Configured DHCP, DNS (BIND9), NTP, Apache, Postfix.  
-Implemented SSH security, iptables firewall rules, ACLs, and automation scripts.
-
-🔗 Repository:  
-https://github.com/adithyaHE22/linux-systems-and-network-programming-2025.git  
-
----
-
-### 🔐 4. Lock&Key – Text Encryption Tool
-Python Tkinter GUI application implementing Base64 encoding with password protection.
-
-🔗 Repository:  
-https://github.com/adithyaHE22/Text-Encryption-and-Decryption-Tool.git  
-
----
-
-### 🌐 5. NetWatch – Real-Time Packet Sniffer
-Python-based raw packet sniffer for learning network traffic analysis and monitoring.
-
-🔗 Repository:  
-https://github.com/adithyaHE22/NetWatch-Packet-Sniffer.git  
-
----
-
-## 🏀 Leadership & Activities
-
-- Captain – School Basketball Team (U16, U18, U20)  
-- Vice Captain – School Cricket Team  
-- Vice President – Astrology Club  
-
----
-
-## 📫 Contact Me
-
-📧 Email: adithya.ha66@gmail.com  
-📍 Location: Kandy, Sri Lanka  
-🔗 LinkedIn: https://www.linkedin.com/in/adithya-hettiarachchi-a40147352  
-💻 GitHub: https://github.com/adithyaHE22  
-
----
-
-⭐ *“Securing systems. Hunting threats. Building defensive strength.”*
+⭐ Securing systems | Hunting threats | Building defensive strength
